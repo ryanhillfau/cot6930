@@ -1,0 +1,8 @@
+# Requirements for the Prompt Engineering Lab Project
+# This file lists all the Python packages and versions required.
+# To install dependencies, run: 
+#    python3 -m pip install --break-system-packages -r requirements.txt
+
+requests>=2.28.0
+
+
