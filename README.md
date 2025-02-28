@@ -1,0 +1,2 @@
+# cot6930
+For COT6930 GenAI SDL
